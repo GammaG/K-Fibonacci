@@ -1,0 +1,9 @@
+C:\Uni\Visual Studio\K-Fibonacci\bin\Debug\K-Fibonacci.exe.config
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K-Fibonacci.csprojResolveAssemblyReference.cache
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K_Fibonacci.Form1.resources
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K_Fibonacci.Properties.Resources.resources
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K-Fibonacci.csproj.GenerateResource.Cache
+C:\Uni\Visual Studio\K-Fibonacci\bin\Debug\K-Fibonacci.exe
+C:\Uni\Visual Studio\K-Fibonacci\bin\Debug\K-Fibonacci.pdb
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K-Fibonacci.exe
+C:\Uni\Visual Studio\K-Fibonacci\obj\Debug\K-Fibonacci.pdb
